@@ -1,6 +1,6 @@
 {
-  "name": "02_command-handling-mongo-database",
-  "version": "1.0.0",
+  "name": "Node",
+  "version": "0.1",
   "description": "Basic Command Handling + Mongo Database Connection + Improvements",
   "main": "index.js",
   "dependencies": {
